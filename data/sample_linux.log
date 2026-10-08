@@ -1,0 +1,7 @@
+Oct 08 09:55:01 kali-lab sshd[1201]: Failed password for admin from 10.10.30.50 port 51231 ssh2
+Oct 08 09:55:04 kali-lab sshd[1202]: Failed password for admin from 10.10.30.50 port 51232 ssh2
+Oct 08 09:55:07 kali-lab sshd[1203]: Failed password for admin from 10.10.30.50 port 51233 ssh2
+Oct 08 09:55:10 kali-lab sshd[1204]: Failed password for admin from 10.10.30.50 port 51234 ssh2
+Oct 08 09:55:13 kali-lab sshd[1205]: Failed password for admin from 10.10.30.50 port 51235 ssh2
+Oct 08 09:55:16 kali-lab sshd[1206]: Failed password for admin from 10.10.30.50 port 51236 ssh2
+Oct 08 09:55:20 kali-lab sshd[1207]: Accepted password for admin from 10.10.30.50 port 51237 ssh2
